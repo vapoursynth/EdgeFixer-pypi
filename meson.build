@@ -3,7 +3,7 @@ project('Edgefixer', 'c',
     license: 'WTFPL',
     license_files: 'COPYING',
     meson_version: '>=1.2.3',
-    version: '3.0',
+    version: '2.1',
 )
 
 sources = [
